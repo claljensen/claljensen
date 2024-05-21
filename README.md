@@ -1,5 +1,11 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é nome Clay Jensen
 
+Estou estudando na![Alura](https://cursos.alura.com.br/login/5Amo3cJU30zf8fk) 
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 <!--
 **claljensen/claljensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
